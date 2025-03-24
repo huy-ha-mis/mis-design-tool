@@ -24,7 +24,7 @@
 # WARNING: if you're exposing Penpot to the internet, you should remove the flags
 # 'disable-secure-session-cookies' and 'disable-email-verification'
 x-flags: &penpot-flags
-  PENPOT_FLAGS: disable-email-verification enable-smtp enable-prepl-server disable-secure-session-cookies
+  PENPOT_FLAGS: enable-smtp enable-prepl-server
 
 x-uri: &penpot-public-uri
   PENPOT_PUBLIC_URI: http://localhost:9001
@@ -195,12 +195,12 @@ services:
       ## provider. Emails are used to confirm user registrations & invitations. Look below
       ## how the mailcatch service is configured.
 
-      PENPOT_SMTP_DEFAULT_FROM: no-reply@example.com
-      PENPOT_SMTP_DEFAULT_REPLY_TO: no-reply@example.com
-      PENPOT_SMTP_HOST: penpot-mailcatch
-      PENPOT_SMTP_PORT: 1025
-      PENPOT_SMTP_USERNAME:
-      PENPOT_SMTP_PASSWORD:
+      PENPOT_SMTP_DEFAULT_FROM: huy.ha@mis.studio
+      PENPOT_SMTP_DEFAULT_REPLY_TO: huy.ha@mis.studio
+      PENPOT_SMTP_HOST: smtp-relay.brevo.com
+      PENPOT_SMTP_PORT: 587
+      PENPOT_SMTP_USERNAME: 797d49001@smtp-brevo.com
+      PENPOT_SMTP_PASSWORD: U7vj46EgH03TRKbz
       PENPOT_SMTP_TLS: false
       PENPOT_SMTP_SSL: false
 
