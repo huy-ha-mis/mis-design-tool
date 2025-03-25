@@ -2998,7 +2998,7 @@ msgstr "Fọnti - %s - Penpot"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "Awọn ísè agbèsè - %s - Penpot"
+msgstr "Awọn ísè agbèsè - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"

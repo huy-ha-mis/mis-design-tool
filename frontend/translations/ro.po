@@ -977,7 +977,7 @@ msgstr "Numele tău"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:39, src/app/main/ui/dashboard/fonts.cljs:35, src/app/main/ui/dashboard/libraries.cljs:40, src/app/main/ui/dashboard/projects.cljs:345, src/app/main/ui/dashboard/search.cljs:48, src/app/main/ui/dashboard/sidebar.cljs:319, src/app/main/ui/dashboard/team.cljs:531, src/app/main/ui/dashboard/team.cljs:781, src/app/main/ui/dashboard/team.cljs:1045, src/app/main/ui/dashboard/team.cljs:1092
 msgid "dashboard.your-penpot"
-msgstr "Contul Penpot"
+msgstr "Contul MIS"
 
 #: src/app/main/ui/alert.cljs:32
 msgid "ds.alert-ok"
@@ -3347,7 +3347,7 @@ msgstr "Fonturi - %s - Penpot"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "Proiecte - %s - Penpot"
+msgstr "Proiecte - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"

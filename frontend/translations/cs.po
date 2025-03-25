@@ -23,7 +23,7 @@ msgstr "Zkontrolujte svůj e-mail"
 msgid "auth.check-your-email"
 msgstr ""
 "Zkontrolujte svůj e-mail a klikněte na odkaz pro ověření, abyste mohli "
-"začít používat Penpot."
+"začít používat MIS."
 
 #: src/app/main/ui/auth/recovery.cljs:67
 msgid "auth.confirm-password"
@@ -67,7 +67,7 @@ msgstr "Přihlásit se"
 #: src/app/main/ui/auth/login.cljs:286
 msgid "auth.login-tagline"
 msgstr ""
-"Penpot je bezplatný open-source návrhářský nástroj pro spolupráci v oblasti "
+"MIS je bezplatný open-source návrhářský nástroj pro spolupráci v oblasti "
 "designu a kódu"
 
 #: src/app/main/ui/auth/login.cljs:223
@@ -157,7 +157,7 @@ msgstr "Vytvořit účet"
 #: src/app/main/ui/auth/register.cljs:124
 msgid "auth.register-tagline"
 msgstr ""
-"S bezplatným účtem Penpot můžete vytvářet neomezený počet týmů a "
+"S bezplatným účtem MIS můžete vytvářet neomezený počet týmů a "
 "spolupracovat s dalšími designéry a vývojáři na tolika projektech, kolik "
 "chcete. "
 
@@ -204,7 +204,7 @@ msgstr "Zveřejnit"
 
 #: src/app/main/ui/viewer/share_link.cljs:305, src/app/main/ui/viewer/share_link.cljs:315
 msgid "common.share-link.all-users"
-msgstr "Všichni uživatelé Penpotu"
+msgstr "Všichni uživatelé MISu"
 
 #: src/app/main/ui/viewer/share_link.cljs:199
 msgid "common.share-link.confirm-deletion-link-description"
@@ -282,7 +282,7 @@ msgstr "Správa týmu"
 #: src/app/main/ui/dashboard/projects.cljs:90
 msgid "dasboard.team-hero.text"
 msgstr ""
-"Penpot je určený pro týmy. Pozvěte členy ke spolupráci na projektech a "
+"MIS je určený pro týmy. Pozvěte členy ke spolupráci na projektech a "
 "souborech"
 
 #: src/app/main/ui/dashboard/projects.cljs:88
@@ -292,7 +292,7 @@ msgstr "Vytvořte tým!"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.tutorial-hero.info"
-msgstr "Naučte se základy Penpotu a pobavte se zároveň v tomto tutoriálu."
+msgstr "Naučte se základy MISu a pobavte se zároveň v tomto tutoriálu."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -307,7 +307,7 @@ msgstr "Praktický tutoriál"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.walkthrough-hero.info"
-msgstr "Projděte si Penpot a seznamte se s jeho hlavními funkcemi."
+msgstr "Projděte si MIS a seznamte se s jeho hlavními funkcemi."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -380,7 +380,7 @@ msgid "dashboard.access-tokens.personal.description"
 msgstr ""
 "Osobní přístupové tokeny fungují jako alternativa k našemu systému "
 "ověřování přihlašovacích údajů/hesel a lze je použít k tomu, aby aplikaci "
-"umožnily přístup k internímu rozhraní Penpot API"
+"umožnily přístup k internímu rozhraní MIS API"
 
 #: src/app/main/ui/settings/access_tokens.cljs:143
 msgid "dashboard.access-tokens.token-will-expire"
@@ -412,7 +412,7 @@ msgstr "Připnout tuto verzi"
 
 #: src/app/main/ui/components/context_menu_a11y.cljs:282, src/app/main/ui/dashboard/sidebar.cljs:659
 msgid "dashboard.default-team-name"
-msgstr "Váš Penpot"
+msgstr "Váš MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:580
 msgid "dashboard.delete-team"
@@ -420,7 +420,7 @@ msgstr "Smazat tým"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:308, src/app/main/ui/dashboard/file_menu.cljs:313, src/app/main/ui/workspace/main_menu.cljs:650, src/app/main/ui/workspace/main_menu.cljs:659
 msgid "dashboard.download-binary-file"
-msgstr "Stáhnout soubor Penpot (.penpot)"
+msgstr "Stáhnout soubor MIS (.MIS)"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:318, src/app/main/ui/workspace/main_menu.cljs:668
 msgid "dashboard.download-standard-file"
@@ -455,14 +455,14 @@ msgstr "Zatím žádné soubory."
 msgid "dashboard.empty-placeholder-libraries"
 msgstr ""
 "Zde se zobrazí knihovny přidané do projektu. Zkuste své soubory sdílet nebo "
-"je přidat z [Knihovny a šablony](https://penpot.app/libraries-templates)."
+"je přidat z [Knihovny a šablony](https://MIS.app/libraries-templates)."
 
 #: src/app/main/ui/dashboard/placeholder.cljs
 #, markdown, unused
 msgid "dashboard.empty-placeholder-libraries-subtitle"
 msgstr ""
 "Zde se zobrazí knihovny přidané do projektu. Zkuste své soubory sdílet nebo "
-"je přidat z [Knihovny a šablony](https://penpot.app/libraries-templates)."
+"je přidat z [Knihovny a šablony](https://MIS.app/libraries-templates)."
 
 #: src/app/main/ui/dashboard/placeholder.cljs:36
 msgid "dashboard.empty-placeholder-libraries-subtitle-viewer-role"
@@ -474,7 +474,7 @@ msgstr "Zatím žádné knihovny."
 
 #: src/app/main/ui/dashboard/file_menu.cljs:249, src/app/main/ui/dashboard/file_menu.cljs:254
 msgid "dashboard.export-binary-multi"
-msgstr "Stáhnout soubory %s Penpot (.penpot)"
+msgstr "Stáhnout soubory %s MIS (.MIS)"
 
 #: src/app/main/ui/workspace/main_menu.cljs:676
 msgid "dashboard.export-frames"
@@ -486,7 +486,7 @@ msgstr "Exportovat do PDF"
 
 #, unused
 msgid "dashboard.export-multi"
-msgstr "Exportovat soubory Penpot %s"
+msgstr "Exportovat soubory MIS %s"
 
 #: src/app/main/ui/exports/assets.cljs:106
 msgid "dashboard.export-multiple.selected"
@@ -504,7 +504,7 @@ msgstr ""
 
 #: src/app/main/ui/exports/assets.cljs:181
 msgid "dashboard.export-shapes.how-to-link"
-msgstr "Informace o nastavování exportů v Penpotu."
+msgstr "Informace o nastavování exportů v MISu."
 
 #: src/app/main/ui/exports/assets.cljs:176
 msgid "dashboard.export-shapes.no-elements"
@@ -604,8 +604,8 @@ msgstr ""
 msgid "dashboard.fonts.hero-text2"
 msgstr ""
 "Měli byste nahrávat pouze písma, která vlastníte nebo máte licenci k "
-"použití v Penpotu. Další informace najdete v části Obsahová práva "
-"[smluvních podmínek společnosti Penpot](%s). "
+"použití v MISu. Další informace najdete v části Obsahová práva "
+"[smluvních podmínek společnosti MIS](%s). "
 "Můžete si také přečíst o [licencování "
 "písem](https://www.typography.com/faq)."
 
@@ -626,7 +626,7 @@ msgstr ""
 
 #: src/app/main/ui/dashboard/import.cljs:452, src/app/main/ui/dashboard/project_menu.cljs:109
 msgid "dashboard.import"
-msgstr "Importovat Penpot soubory"
+msgstr "Importovat MIS soubory"
 
 #: src/app/main/ui/dashboard/import.cljs:288, src/app/worker/import.cljs:851, src/app/worker/import.cljs:854
 msgid "dashboard.import.analyze-error"
@@ -920,7 +920,7 @@ msgstr "Kreativitě se meze nekladou"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:968
 msgid "dashboard.upgrade-plan.penpot-free"
-msgstr "Penpot Free"
+msgstr "MIS Free"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:971
 msgid "dashboard.upgrade-plan.power-up"
@@ -954,7 +954,7 @@ msgstr "Webhook byl úspěšně vytvořen."
 msgid "dashboard.webhooks.description"
 msgstr ""
 "Webhooky jsou jednoduchým způsobem, jak umožnit jiným webům a aplikacím, "
-"aby byly upozorňovány na určité události v Penpotu. Na každou z vámi "
+"aby byly upozorňovány na určité události v MISu. Na každou z vámi "
 "poskytnutých adres URL odešleme požadavek POST."
 
 #: src/app/main/ui/dashboard/team.cljs:1059
@@ -983,7 +983,7 @@ msgstr "Vaše jméno"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:39, src/app/main/ui/dashboard/fonts.cljs:35, src/app/main/ui/dashboard/libraries.cljs:40, src/app/main/ui/dashboard/projects.cljs:345, src/app/main/ui/dashboard/search.cljs:48, src/app/main/ui/dashboard/sidebar.cljs:319, src/app/main/ui/dashboard/team.cljs:531, src/app/main/ui/dashboard/team.cljs:781, src/app/main/ui/dashboard/team.cljs:1045, src/app/main/ui/dashboard/team.cljs:1092
 msgid "dashboard.your-penpot"
-msgstr "Váš Penpot"
+msgstr "Váš MIS"
 
 #: src/app/main/ui/alert.cljs:32
 msgid "ds.alert-ok"
@@ -1261,7 +1261,7 @@ msgstr "Popisek"
 
 #: src/app/main/ui/settings/feedback.cljs:92
 msgid "feedback.discourse-go-to"
-msgstr "Přejít na Penpot fórum"
+msgstr "Přejít na MIS fórum"
 
 #: src/app/main/ui/settings/feedback.cljs:86
 msgid "feedback.discourse-subtitle1"
@@ -1271,7 +1271,7 @@ msgstr ""
 
 #: src/app/main/ui/settings/feedback.cljs:85
 msgid "feedback.discourse-title"
-msgstr "Penpot komunita"
+msgstr "MIS komunita"
 
 #: src/app/main/ui/settings/feedback.cljs:69
 msgid "feedback.subject"
@@ -1491,7 +1491,7 @@ msgstr "Velká písmena"
 msgid "inspect.empty.help"
 msgstr ""
 "Pokud se chcete dozvědět více o inspektorovi designu, navštivte centrum "
-"nápovědy společnosti Penpot"
+"nápovědy společnosti MIS"
 
 #: src/app/main/ui/viewer/inspect/right_sidebar.cljs:155
 msgid "inspect.empty.more-info"
@@ -1663,7 +1663,7 @@ msgstr "Pokračovat s"
 
 #: src/app/main/ui/viewer/login.cljs:69
 msgid "labels.continue-with-penpot"
-msgstr "Můžete pokračovat s účtem Penpot"
+msgstr "Můžete pokračovat s účtem MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:683
 msgid "labels.copy-invitation-link"
@@ -2744,7 +2744,7 @@ msgstr "Chyba 404"
 #: src/app/main/ui/static.cljs:135
 msgid "not-found.login.free"
 msgstr ""
-"Penpot je bezplatný a open-source návrhářský nástroj pro spolupráci mezi "
+"MIS je bezplatný a open-source návrhářský nástroj pro spolupráci mezi "
 "designem a kódem"
 
 #: src/app/main/ui/auth/recovery_request.cljs:114
@@ -2761,7 +2761,7 @@ msgstr "Zaregistrujte se zdarma"
 
 #: src/app/main/ui/static.cljs:150
 msgid "not-found.login.start-using"
-msgstr "A začněte používat Penpot během několika sekund!"
+msgstr "A začněte používat MIS během několika sekund!"
 
 #: src/app/main/ui/static.cljs:64
 msgid "not-found.made-with-love"
@@ -2805,7 +2805,7 @@ msgstr "K tomuto souboru nemáte přístup."
 
 #: src/app/main/ui/static.cljs:51, src/app/main/ui/static.cljs:287, src/app/main/ui/static.cljs:293, src/app/main/ui/static.cljs:299, src/app/main/ui/static.cljs:305, src/app/main/ui/static.cljs:314, src/app/main/ui/static.cljs:323
 msgid "not-found.no-permission.go-dashboard"
-msgstr "Přejděte na svůj Penpot"
+msgstr "Přejděte na svůj MIS"
 
 #: src/app/main/ui/static.cljs:311, src/app/main/ui/static.cljs:320
 msgid "not-found.no-permission.if-approves"
@@ -2813,7 +2813,7 @@ msgstr "Pokud to vlastník dovolí, budete pozváni do týmu."
 
 #: src/app/main/ui/static.cljs:249, src/app/main/ui/static.cljs:261
 msgid "not-found.no-permission.penpot-file"
-msgstr "Soubor Penpot"
+msgstr "Soubor MIS"
 
 #: src/app/main/ui/static.cljs:286, src/app/main/ui/static.cljs:318
 msgid "not-found.no-permission.project"
@@ -2863,7 +2863,7 @@ msgstr "Ověřovací e-mail byl odeslán na adresu %s. Zkontrolujte si e-mail!"
 msgid "onboarding-v2.before-start.desc1"
 msgstr ""
 "Měli byste vědět, že existuje spousta dostupných zdrojů, které vám pomohou "
-"začít s Penpot, jako je uživatelská příručka a náš kanál YouTube."
+"začít s MIS, jako je uživatelská příručka a náš kanál YouTube."
 
 #, unused
 msgid "onboarding-v2.before-start.desc2"
@@ -3194,7 +3194,7 @@ msgstr "Začněte navrhovat"
 
 #, unused
 msgid "onboarding.welcome.alt"
-msgstr "Penpot"
+msgstr "MIS"
 
 #: src/app/main/ui/auth/recovery.cljs:88
 msgid "profile.recovery.go-to-login"
@@ -3884,27 +3884,27 @@ msgstr "Přiblížit vybrané"
 
 #: src/app/main/ui/dashboard/files.cljs:179
 msgid "title.dashboard.files"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:39
 msgid "title.dashboard.font-providers"
-msgstr "Poskytovatelé písem - %s - Penpot"
+msgstr "Poskytovatelé písem - %s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:38
 msgid "title.dashboard.fonts"
-msgstr "Písma - %s - Penpot"
+msgstr "Písma - %s - MIS"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "Projekty - %s - Penpot"
+msgstr "Projekty - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"
-msgstr "Hledat - %s - Penpot"
+msgstr "Hledat - %s - MIS"
 
 #: src/app/main/ui/dashboard/libraries.cljs:42
 msgid "title.dashboard.shared-libraries"
-msgstr "Sdílené knihovny - %s - Penpot"
+msgstr "Sdílené knihovny - %s - MIS"
 
 #: src/app/main/ui/auth/verify_token.cljs:70, src/app/main/ui/auth.cljs:33
 msgid "title.default"
@@ -3916,43 +3916,43 @@ msgstr "Profil – Přístupové tokeny"
 
 #: src/app/main/ui/settings/feedback.cljs:107
 msgid "title.settings.feedback"
-msgstr "Poskytněte zpětnou vazbu – Penpot"
+msgstr "Poskytněte zpětnou vazbu – MIS"
 
 #: src/app/main/ui/settings/options.cljs:76
 msgid "title.settings.options"
-msgstr "Nastavení - Penpot"
+msgstr "Nastavení - MIS"
 
 #: src/app/main/ui/settings/password.cljs:103
 msgid "title.settings.password"
-msgstr "Heslo - Penpot"
+msgstr "Heslo - MIS"
 
 #: src/app/main/ui/settings/profile.cljs:124
 msgid "title.settings.profile"
-msgstr "Profil - Penpot"
+msgstr "Profil - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:779
 msgid "title.team-invitations"
-msgstr "Pozvánky – %s – Penpot"
+msgstr "Pozvánky – %s – MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:529
 msgid "title.team-members"
-msgstr "Členové - %s - Penpot"
+msgstr "Členové - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1090
 msgid "title.team-settings"
-msgstr "Nastavení - %s - Penpot"
+msgstr "Nastavení - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1043
 msgid "title.team-webhooks"
-msgstr "Webhooks - %s - Penpot"
+msgstr "Webhooks - %s - MIS"
 
 #: src/app/main/ui/viewer.cljs:423
 msgid "title.viewer"
-msgstr "%s - Režim zobrazení - Penpot"
+msgstr "%s - Režim zobrazení - MIS"
 
 #: src/app/main/ui/workspace.cljs:202
 msgid "title.workspace"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui.cljs:138
 #, unused

@@ -24,7 +24,7 @@ msgstr "Проверите своју е-пошту"
 msgid "auth.check-your-email"
 msgstr ""
 "Проверите своју е-пошту и кликните на везу да верификујете и почнете да "
-"користите Penpot."
+"користите MIS."
 
 #: src/app/main/ui/auth/recovery.cljs:67
 msgid "auth.confirm-password"
@@ -67,7 +67,7 @@ msgstr "Пријава"
 
 #: src/app/main/ui/auth/login.cljs:286
 msgid "auth.login-tagline"
-msgstr "Penpot је бесплатан алат отвореног кода за сарадњу у дизајну и програмирању"
+msgstr "MIS је бесплатан алат отвореног кода за сарадњу у дизајну и програмирању"
 
 #: src/app/main/ui/auth/login.cljs:223
 msgid "auth.login-with-github-submit"
@@ -156,7 +156,7 @@ msgstr "Креирајте налог"
 #: src/app/main/ui/auth/register.cljs:124
 msgid "auth.register-tagline"
 msgstr ""
-"Са бесплатним Penpot налогом можете креирати неограничен број тимова и "
+"Са бесплатним MIS налогом можете креирати неограничен број тимова и "
 "сарађивати са другим дизајнерима и програмерима на онолико пројеката колико "
 "желите. "
 
@@ -203,7 +203,7 @@ msgstr "Објави"
 
 #: src/app/main/ui/viewer/share_link.cljs:305, src/app/main/ui/viewer/share_link.cljs:315
 msgid "common.share-link.all-users"
-msgstr "Сви Penpot корисници"
+msgstr "Сви MIS корисници"
 
 #: src/app/main/ui/viewer/share_link.cljs:199
 msgid "common.share-link.confirm-deletion-link-description"
@@ -281,7 +281,7 @@ msgstr "Управљање тимом"
 #: src/app/main/ui/dashboard/projects.cljs:90
 msgid "dasboard.team-hero.text"
 msgstr ""
-"Penpot је намењен тимовима. Позовите чланове да заједно раде на пројектима "
+"MIS је намењен тимовима. Позовите чланове да заједно раде на пројектима "
 "и датотекама"
 
 #: src/app/main/ui/dashboard/projects.cljs:88
@@ -291,7 +291,7 @@ msgstr "Уједините снаге!"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.tutorial-hero.info"
-msgstr "Савладајте основе на Penpot-у уз забаву у овом практичном туторијалу."
+msgstr "Савладајте основе на MIS-у уз забаву у овом практичном туторијалу."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -306,7 +306,7 @@ msgstr "Практични туторијал"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.walkthrough-hero.info"
-msgstr "Прошетајте кроз Penpot и упознајте се са његовим главним функцијама."
+msgstr "Прошетајте кроз MIS и упознајте се са његовим главним функцијама."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -379,7 +379,7 @@ msgid "dashboard.access-tokens.personal.description"
 msgstr ""
 "Лични токени за приступ функционишу као алтернатива нашем систему "
 "аутентификације са корисничким именом и лозинком и могу се користити за "
-"омогућавање апликацији приступу унутрашњем Penpot API-ју"
+"омогућавање апликацији приступу унутрашњем MIS API-ју"
 
 #: src/app/main/ui/settings/access_tokens.cljs:143
 msgid "dashboard.access-tokens.token-will-expire"
@@ -407,7 +407,7 @@ msgstr "Направите нови тим"
 
 #: src/app/main/ui/components/context_menu_a11y.cljs:282, src/app/main/ui/dashboard/sidebar.cljs:659
 msgid "dashboard.default-team-name"
-msgstr "Ваш Penpot"
+msgstr "Ваш MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:580
 msgid "dashboard.delete-team"
@@ -415,7 +415,7 @@ msgstr "Избришите тим"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:308, src/app/main/ui/dashboard/file_menu.cljs:313, src/app/main/ui/workspace/main_menu.cljs:650, src/app/main/ui/workspace/main_menu.cljs:659
 msgid "dashboard.download-binary-file"
-msgstr "Преузмите Penpot датотеку (.penpot)"
+msgstr "Преузмите MIS датотеку (.MIS)"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:318, src/app/main/ui/workspace/main_menu.cljs:668
 msgid "dashboard.download-standard-file"
@@ -431,7 +431,7 @@ msgstr "Дуплирај %s датотека"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:249, src/app/main/ui/dashboard/file_menu.cljs:254
 msgid "dashboard.export-binary-multi"
-msgstr "Преузмите % Penpot датотека (.penpot)"
+msgstr "Преузмите % MIS датотека (.MIS)"
 
 #: src/app/main/ui/workspace/main_menu.cljs:676
 msgid "dashboard.export-frames"
@@ -443,7 +443,7 @@ msgstr "Извези као PDF"
 
 #, unused
 msgid "dashboard.export-multi"
-msgstr "Извези Penpot %s датотека"
+msgstr "Извези MIS %s датотека"
 
 #: src/app/main/ui/exports/assets.cljs:106
 msgid "dashboard.export-multiple.selected"
@@ -461,7 +461,7 @@ msgstr ""
 
 #: src/app/main/ui/exports/assets.cljs:181
 msgid "dashboard.export-shapes.how-to-link"
-msgstr "Информације како да подесите извоз у Penpot-у."
+msgstr "Информације како да подесите извоз у MIS-у."
 
 #: src/app/main/ui/exports/assets.cljs:176
 msgid "dashboard.export-shapes.no-elements"
@@ -552,8 +552,8 @@ msgstr ""
 msgid "dashboard.fonts.hero-text2"
 msgstr ""
 "Требало би да отпремате само фонтове које поседујете или за које имате "
-"лиценцу за коришћење у Penpot-у. Сазнајте више у одељку о правима садржаја "
-"у [Условима коришћења Penpot-а](%s). Такође, "
+"лиценцу за коришћење у MIS-у. Сазнајте више у одељку о правима садржаја "
+"у [Условима коришћења MIS-а](%s). Такође, "
 "можете прочитати о [лиценцирању фонтовa](https://www.typography.com/faq)."
 
 #: src/app/main/ui/dashboard/fonts.cljs:206
@@ -573,7 +573,7 @@ msgstr ""
 
 #: src/app/main/ui/dashboard/import.cljs:452, src/app/main/ui/dashboard/project_menu.cljs:109
 msgid "dashboard.import"
-msgstr "Увези Penpot датотеке"
+msgstr "Увези MIS датотеке"
 
 #: src/app/main/ui/dashboard/import.cljs:288, src/app/worker/import.cljs:851, src/app/worker/import.cljs:854
 msgid "dashboard.import.analyze-error"
@@ -856,7 +856,7 @@ msgid "dashboard.webhooks.description"
 msgstr ""
 "Веб-куке су једноставан начин да омогућите другим веб-сајтовима и "
 "апликацијама да буду обавештени када се одређени догађаји догоде у "
-"Penpot-у. Послаћемо POST захтев на сваку од URL адреса које наведете."
+"MIS-у. Послаћемо POST захтев на сваку од URL адреса које наведете."
 
 #: src/app/main/ui/dashboard/team.cljs:1059
 msgid "dashboard.webhooks.empty.add-one"
@@ -884,7 +884,7 @@ msgstr "Ваше име"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:39, src/app/main/ui/dashboard/fonts.cljs:35, src/app/main/ui/dashboard/libraries.cljs:40, src/app/main/ui/dashboard/projects.cljs:345, src/app/main/ui/dashboard/search.cljs:48, src/app/main/ui/dashboard/sidebar.cljs:319, src/app/main/ui/dashboard/team.cljs:531, src/app/main/ui/dashboard/team.cljs:781, src/app/main/ui/dashboard/team.cljs:1045, src/app/main/ui/dashboard/team.cljs:1092
 msgid "dashboard.your-penpot"
-msgstr "Ваш Penpot"
+msgstr "Ваш MIS"
 
 #: src/app/main/ui/alert.cljs:32
 msgid "ds.alert-ok"
@@ -1124,7 +1124,7 @@ msgstr "Опис"
 
 #: src/app/main/ui/settings/feedback.cljs:92
 msgid "feedback.discourse-go-to"
-msgstr "Иди на Penpot форум"
+msgstr "Иди на MIS форум"
 
 #: src/app/main/ui/settings/feedback.cljs:86
 msgid "feedback.discourse-subtitle1"
@@ -1134,7 +1134,7 @@ msgstr ""
 
 #: src/app/main/ui/settings/feedback.cljs:85
 msgid "feedback.discourse-title"
-msgstr "Penpot заједница"
+msgstr "MIS заједница"
 
 #: src/app/main/ui/settings/feedback.cljs:69
 msgid "feedback.subject"
@@ -1354,7 +1354,7 @@ msgstr "Велико слово"
 msgid "inspect.empty.help"
 msgstr ""
 "Ако желите да сазнате више о прегледу дизајна, посетите Помоћни центар "
-"Penpot-а"
+"MIS-а"
 
 #: src/app/main/ui/viewer/inspect/right_sidebar.cljs:155
 msgid "inspect.empty.more-info"
@@ -1504,7 +1504,7 @@ msgstr "Настави са"
 
 #: src/app/main/ui/viewer/login.cljs:69
 msgid "labels.continue-with-penpot"
-msgstr "Можете наставити са Penpot налогом"
+msgstr "Можете наставити са MIS налогом"
 
 #: src/app/main/ui/dashboard/team.cljs:683
 msgid "labels.copy-invitation-link"
@@ -2542,12 +2542,12 @@ msgstr "Е-пошта за верификацију је послата на %с
 msgid "onboarding-v2.before-start.desc1"
 msgstr ""
 "Треба да знате да постоји много средстава који вам могу помоћи да започнете "
-"рад са Penpot-ом, као што су Корисничко упутство и наш YouTube канал."
+"рад са MIS-ом, као што су Корисничко упутство и наш YouTube канал."
 
 #, unused
 msgid "onboarding-v2.before-start.desc2"
 msgstr ""
-"Детаљне информације о коришћењу Penpot-а. Од прототипирања до организовања "
+"Детаљне информације о коришћењу MIS-а. Од прототипирања до организовања "
 "и дељења дизајна."
 
 #, unused
@@ -2571,13 +2571,13 @@ msgstr "Пре него што почнете"
 #: src/app/main/ui/onboarding/newsletter.cljs:63
 msgid "onboarding-v2.newsletter.desc"
 msgstr ""
-"Претплатите се на Penpot билтен како бисте били у току са напретком у "
+"Претплатите се на MIS билтен како бисте били у току са напретком у "
 "развоју производа и новостима."
 
 #: src/app/main/ui/onboarding/newsletter.cljs:83
 msgid "onboarding-v2.newsletter.news"
 msgstr ""
-"Шаљи ми вести о Penpot-у (објаве на блогу, видео туторијали, преноси "
+"Шаљи ми вести о MIS-у (објаве на блогу, видео туторијали, преноси "
 "уживо...)."
 
 #: src/app/main/ui/onboarding/newsletter.cljs:91
@@ -2597,15 +2597,15 @@ msgstr "Шаљи ми ажурирања производа (нове функц
 #, unused
 msgid "onboarding-v2.welcome.desc1"
 msgstr ""
-"Penpot је отвореног кода и развијен је од стране компаније Kaleidos као и "
+"MIS је отвореног кода и развијен је од стране компаније Kaleidos као и "
 "заједница у којој много људи већ помажу једни другима. Сви могу сарађивати "
 "на следеће начине:"
 
 #, unused
 msgid "onboarding-v2.welcome.desc2"
 msgstr ""
-"Јавни простор за учење, дељење и дискутовање о Penpot-у, његовом садашњем "
-"стању и будућности са целокупном заједницом и основним тимом Penpot-а."
+"Јавни простор за учење, дељење и дискутовање о MIS-у, његовом садашњем "
+"стању и будућности са целокупном заједницом и основним тимом MIS-а."
 
 #, unused
 msgid "onboarding-v2.welcome.desc2.title"
@@ -2623,7 +2623,7 @@ msgstr "Водич за допринос"
 
 #: src/app/main/ui/onboarding/team_choice.cljs:30
 msgid "onboarding-v2.welcome.title"
-msgstr "Добродoшли у Penpot!"
+msgstr "Добродoшли у MIS!"
 
 #: src/app/main/ui/onboarding/team_choice.cljs:254
 msgid "onboarding.choice.team-up.continue-creating-team"
@@ -2697,7 +2697,7 @@ msgstr "Политика приватности."
 
 #: src/app/main/ui/onboarding/newsletter.cljs:60
 msgid "onboarding.newsletter.title"
-msgstr "Желите ли примате Penpot новости?"
+msgstr "Желите ли примате MIS новости?"
 
 #: src/app/main/ui/onboarding/questions.cljs:113
 msgid "onboarding.questions.lets-get-started"
@@ -2713,7 +2713,7 @@ msgstr "Само истражујем"
 
 #: src/app/main/ui/onboarding/questions.cljs:91
 msgid "onboarding.questions.reasons.fit"
-msgstr "Разматрам да ли је Penpot добар избор за мој тим"
+msgstr "Разматрам да ли је MIS добар избор за мој тим"
 
 #: src/app/main/ui/onboarding/questions.cljs:97
 msgid "onboarding.questions.reasons.testing"
@@ -2741,16 +2741,16 @@ msgstr "Вајрфрејминг"
 
 #: src/app/main/ui/onboarding/questions.cljs:121
 msgid "onboarding.questions.step1.question1"
-msgstr "За шта ћете користити Penpot?"
+msgstr "За шта ћете користити MIS?"
 
 #: src/app/main/ui/onboarding/questions.cljs:128
 msgid "onboarding.questions.step1.question2"
-msgstr "Шта вас данас доводи у Penpot?"
+msgstr "Шта вас данас доводи у MIS?"
 
 #: src/app/main/ui/onboarding/questions.cljs:117
 msgid "onboarding.questions.step1.subtitle"
 msgstr ""
-"Реците нам нешто о вама како бисте нам помогли да Penpot ради за вас. Ваши "
+"Реците нам нешто о вама како бисте нам помогли да MIS ради за вас. Ваши "
 "одговори ће нам помоћи да дамо приоритет новим функцијама и упутити вас у "
 "правом смеру да почнете."
 
@@ -2784,7 +2784,7 @@ msgstr "Где бисте желели да почнете?"
 
 #: src/app/main/ui/onboarding/questions.cljs:428
 msgid "onboarding.questions.step5.title"
-msgstr "Како сте чули за Penpot?"
+msgstr "Како сте чули за MIS?"
 
 #: src/app/main/ui/onboarding/questions.cljs:268
 msgid "onboarding.questions.team-size.11-30"
@@ -2829,7 +2829,7 @@ msgstr "Направите тим"
 #: src/app/main/ui/onboarding/team_choice.cljs:34
 msgid "onboarding.team-modal.create-team-desc"
 msgstr ""
-"Тим вам омогућава да сарађујете са другим Penpot корисницима који раде на "
+"Тим вам омогућава да сарађујете са другим MIS корисницима који раде на "
 "истим датотекама и пројектима."
 
 #: src/app/main/ui/onboarding/team_choice.cljs:39
@@ -2866,7 +2866,7 @@ msgstr "Почните да дизајнирате"
 
 #, unused
 msgid "onboarding.welcome.alt"
-msgstr "Penpot"
+msgstr "MIS"
 
 #: src/app/main/ui/auth/recovery.cljs:88
 msgid "profile.recovery.go-to-login"
@@ -3544,31 +3544,31 @@ msgstr "Увећај на изабрано"
 
 #: src/app/main/ui/dashboard/files.cljs:179
 msgid "title.dashboard.files"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:39
 msgid "title.dashboard.font-providers"
-msgstr "Добављачи фонтова - %s - Penpot"
+msgstr "Добављачи фонтова - %s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:38
 msgid "title.dashboard.fonts"
-msgstr "Фонтови - %s - Penpot"
+msgstr "Фонтови - %s - MIS"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "Пројекти - %s - Penpot"
+msgstr "Пројекти - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"
-msgstr "Претражи - %s - Penpot"
+msgstr "Претражи - %s - MIS"
 
 #: src/app/main/ui/dashboard/libraries.cljs:42
 msgid "title.dashboard.shared-libraries"
-msgstr "Дељене библиотеке - %s - Penpot"
+msgstr "Дељене библиотеке - %s - MIS"
 
 #: src/app/main/ui/auth/verify_token.cljs:70, src/app/main/ui/auth.cljs:33
 msgid "title.default"
-msgstr "Penpot - Слобода дизајнирања за тимове"
+msgstr "MIS - Слобода дизајнирања за тимове"
 
 #: src/app/main/ui/settings/access_tokens.cljs:281
 msgid "title.settings.access-tokens"
@@ -3576,43 +3576,43 @@ msgstr "Налог - Токени за приступ"
 
 #: src/app/main/ui/settings/feedback.cljs:107
 msgid "title.settings.feedback"
-msgstr "Оставите повратне информације - Penpot"
+msgstr "Оставите повратне информације - MIS"
 
 #: src/app/main/ui/settings/options.cljs:76
 msgid "title.settings.options"
-msgstr "Подешавања - Penpot"
+msgstr "Подешавања - MIS"
 
 #: src/app/main/ui/settings/password.cljs:103
 msgid "title.settings.password"
-msgstr "Лозинка - Penpot"
+msgstr "Лозинка - MIS"
 
 #: src/app/main/ui/settings/profile.cljs:124
 msgid "title.settings.profile"
-msgstr "Налог - Penpot"
+msgstr "Налог - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:779
 msgid "title.team-invitations"
-msgstr "Позивнице - %s - Penpot"
+msgstr "Позивнице - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:529
 msgid "title.team-members"
-msgstr "Чланови - %s - Penpot"
+msgstr "Чланови - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1090
 msgid "title.team-settings"
-msgstr "Подешавања - %s - Penpot"
+msgstr "Подешавања - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1043
 msgid "title.team-webhooks"
-msgstr "Веб-куке - %s - Penpot"
+msgstr "Веб-куке - %s - MIS"
 
 #: src/app/main/ui/viewer.cljs:423
 msgid "title.viewer"
-msgstr "%s - Режим прегледа - Penpot"
+msgstr "%s - Режим прегледа - MIS"
 
 #: src/app/main/ui/workspace.cljs:202
 msgid "title.workspace"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui.cljs:138
 #, unused

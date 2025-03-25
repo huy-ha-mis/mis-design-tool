@@ -2085,7 +2085,7 @@ msgstr "فونت‌ها - %s - Penpot"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "پروژه‌ها - %s - Penpot"
+msgstr "پروژه‌ها - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"

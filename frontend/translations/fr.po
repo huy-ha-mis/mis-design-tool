@@ -23,7 +23,7 @@ msgstr "Vérifiez vos email"
 msgid "auth.check-your-email"
 msgstr ""
 "Vérifiez votre e‑mail et cliquez sur le lien pour vérifier et commencer à "
-"utiliser Penpot."
+"utiliser MIS."
 
 #: src/app/main/ui/auth/recovery.cljs:67
 msgid "auth.confirm-password"
@@ -67,7 +67,7 @@ msgstr "Se connecter"
 #: src/app/main/ui/auth/login.cljs:286
 msgid "auth.login-tagline"
 msgstr ""
-"Penpot est l'outil de design libre et open-source pour la collaboration "
+"MIS est l'outil de design libre et open-source pour la collaboration "
 "entre Design et Développement"
 
 #: src/app/main/ui/auth/login.cljs:223
@@ -159,7 +159,7 @@ msgstr "Créer un compte"
 #: src/app/main/ui/auth/register.cljs:124
 msgid "auth.register-tagline"
 msgstr ""
-"Avec un compte grauit Penpot, vous pouvez créer des équipes en illimité et "
+"Avec un compte grauit MIS, vous pouvez créer des équipes en illimité et "
 "collaborer avec d'autres designer et développeurs sur autant de projets que "
 "vous le souhaitez. "
 
@@ -208,7 +208,7 @@ msgstr "Publier"
 
 #: src/app/main/ui/viewer/share_link.cljs:305, src/app/main/ui/viewer/share_link.cljs:315
 msgid "common.share-link.all-users"
-msgstr "Tous les utilisateurs de Penpot"
+msgstr "Tous les utilisateurs de MIS"
 
 #: src/app/main/ui/viewer/share_link.cljs:199
 msgid "common.share-link.confirm-deletion-link-description"
@@ -285,7 +285,7 @@ msgstr "Gestion de l'équipe"
 #: src/app/main/ui/dashboard/projects.cljs:90
 msgid "dasboard.team-hero.text"
 msgstr ""
-"Penpot est conçu pour les équipes. Invitez les membres pour collaborer sur "
+"MIS est conçu pour les équipes. Invitez les membres pour collaborer sur "
 "des projets et des fichiers"
 
 #: src/app/main/ui/dashboard/projects.cljs:88
@@ -295,7 +295,7 @@ msgstr "Faites une équipe  !"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.tutorial-hero.info"
-msgstr "Apprenez les bases de Penpot en s'amusant avec ce tutoriel pratique."
+msgstr "Apprenez les bases de MIS en s'amusant avec ce tutoriel pratique."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -310,7 +310,7 @@ msgstr "Tutoriel pratique"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.walkthrough-hero.info"
-msgstr "Explorez Penpot et découvrir ses fonctionnalités."
+msgstr "Explorez MIS et découvrir ses fonctionnalités."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -383,7 +383,7 @@ msgid "dashboard.access-tokens.personal.description"
 msgstr ""
 "Les jetons d'accès personnels fonctionnent comme une alternative à notre "
 "système d'authentification par login/mot de passe et peuvent être utilisés "
-"pour permettre à une application d'accéder à l'API interne de Penpot"
+"pour permettre à une application d'accéder à l'API interne de MIS"
 
 #: src/app/main/ui/settings/access_tokens.cljs:143
 msgid "dashboard.access-tokens.token-will-expire"
@@ -411,7 +411,7 @@ msgstr "+ Créer une nouvelle équipe"
 
 #: src/app/main/ui/components/context_menu_a11y.cljs:282, src/app/main/ui/dashboard/sidebar.cljs:659
 msgid "dashboard.default-team-name"
-msgstr "Votre Penpot"
+msgstr "Votre MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:580
 msgid "dashboard.delete-team"
@@ -419,7 +419,7 @@ msgstr "Supprimer l’équipe"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:308, src/app/main/ui/dashboard/file_menu.cljs:313, src/app/main/ui/workspace/main_menu.cljs:650, src/app/main/ui/workspace/main_menu.cljs:659
 msgid "dashboard.download-binary-file"
-msgstr "Télécharger le fichier Penpot (.penpot)"
+msgstr "Télécharger le fichier MIS (.penpot)"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:318, src/app/main/ui/workspace/main_menu.cljs:668
 msgid "dashboard.download-standard-file"
@@ -435,7 +435,7 @@ msgstr "Dupliquer %s fichiers"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:249, src/app/main/ui/dashboard/file_menu.cljs:254
 msgid "dashboard.export-binary-multi"
-msgstr "Télécharger %s fichiers Penpot (.penpot)"
+msgstr "Télécharger %s fichiers MIS (.penpot)"
 
 #: src/app/main/ui/workspace/main_menu.cljs:676
 msgid "dashboard.export-frames"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: src/app/main/ui/exports/assets.cljs:181
 msgid "dashboard.export-shapes.how-to-link"
-msgstr "Information sur comment configurer l'export dans Penpot."
+msgstr "Information sur comment configurer l'export dans MIS."
 
 #: src/app/main/ui/exports/assets.cljs:176
 msgid "dashboard.export-shapes.no-elements"
@@ -562,9 +562,9 @@ msgstr ""
 msgid "dashboard.fonts.hero-text2"
 msgstr ""
 "Ne téléchargez que des polices que vous possédez ou dont la license vous "
-"permet de les utiliser dans Penpot. Vous trouverez plus d'informations dans "
+"permet de les utiliser dans MIS. Vous trouverez plus d'informations dans "
 "la section Propriété des Contenus des [conditions générales d'utilisation "
-"de Penpot](%s). Vous pouvez également vous "
+"de MIS](%s). Vous pouvez également vous "
 "renseigner sur les [licenses de polices](https://www.typography.com/faq)."
 
 #: src/app/main/ui/dashboard/fonts.cljs:206
@@ -869,7 +869,7 @@ msgid "dashboard.webhooks.description"
 msgstr ""
 "Les webhooks sont une manière simple de permettre à d'autres site web et "
 "aux applications d'être notifiés quand certains évènements se produisent "
-"dans Penpot. Nous enverrons une requête POST à toutes les URLs que vous "
+"dans MIS. Nous enverrons une requête POST à toutes les URLs que vous "
 "avez indiquées."
 
 #: src/app/main/ui/dashboard/team.cljs:1059
@@ -898,7 +898,7 @@ msgstr "Votre nom complet"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:39, src/app/main/ui/dashboard/fonts.cljs:35, src/app/main/ui/dashboard/libraries.cljs:40, src/app/main/ui/dashboard/projects.cljs:345, src/app/main/ui/dashboard/search.cljs:48, src/app/main/ui/dashboard/sidebar.cljs:319, src/app/main/ui/dashboard/team.cljs:531, src/app/main/ui/dashboard/team.cljs:781, src/app/main/ui/dashboard/team.cljs:1045, src/app/main/ui/dashboard/team.cljs:1092
 msgid "dashboard.your-penpot"
-msgstr "Votre Penpot"
+msgstr "Votre MIS"
 
 #: src/app/main/ui/alert.cljs:32
 msgid "ds.alert-ok"
@@ -980,7 +980,7 @@ msgstr "L'e-mail \"%s\" a été signalé comme spam ou a été rejeté."
 msgid "errors.feature-mismatch"
 msgstr ""
 "Il semble que vous ouvrez un fichier qui a la fonctionnalité '%s' activée, "
-"mais votre interface Penpot ne la prend pas en charge ou l'a désactivée."
+"mais votre interface MIS ne la prend pas en charge ou l'a désactivée."
 
 #: src/app/main/errors.cljs:246, src/app/main/errors.cljs:260
 msgid "errors.feature-not-supported"
@@ -1160,7 +1160,7 @@ msgstr "Description"
 
 #: src/app/main/ui/settings/feedback.cljs:92
 msgid "feedback.discourse-go-to"
-msgstr "Accéder au forum Penpot"
+msgstr "Accéder au forum MIS"
 
 #: src/app/main/ui/settings/feedback.cljs:86
 msgid "feedback.discourse-subtitle1"
@@ -1170,7 +1170,7 @@ msgstr ""
 
 #: src/app/main/ui/settings/feedback.cljs:85
 msgid "feedback.discourse-title"
-msgstr "Communauté Penpot"
+msgstr "Communauté MIS"
 
 #: src/app/main/ui/settings/feedback.cljs:69
 msgid "feedback.subject"
@@ -1389,7 +1389,7 @@ msgstr "Capitales"
 
 #: src/app/main/ui/viewer/inspect/right_sidebar.cljs:152
 msgid "inspect.empty.help"
-msgstr "Pour en savoir plus sur l'inspection, visitez le centre d'aide de Penpot"
+msgstr "Pour en savoir plus sur l'inspection, visitez le centre d'aide de MIS"
 
 #: src/app/main/ui/viewer/inspect/right_sidebar.cljs:155
 msgid "inspect.empty.more-info"
@@ -1541,7 +1541,7 @@ msgstr "Continuer avec"
 
 #: src/app/main/ui/viewer/login.cljs:69
 msgid "labels.continue-with-penpot"
-msgstr "Vous pouvez continuer avec un compte Penpot"
+msgstr "Vous pouvez continuer avec un compte MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:683
 msgid "labels.copy-invitation-link"
@@ -2565,13 +2565,13 @@ msgstr "E‑mail de vérification envoyé à %s. Vérifiez votre e‑mail !"
 msgid "onboarding-v2.before-start.desc1"
 msgstr ""
 "Sachez qu’il existe de nombreuses ressources disponibles pour vous aider à "
-"démarrer avec Penpot, comme le Guide de l’utilisateur et notre chaîne "
+"démarrer avec MIS, comme le Guide de l’utilisateur et notre chaîne "
 "Youtube."
 
 #, unused
 msgid "onboarding-v2.before-start.desc2"
 msgstr ""
-"De l'information détaillée sur Penpot. De prototypage à l’organisation et "
+"De l'information détaillée sur MIS. De prototypage à l’organisation et "
 "le partage des designs."
 
 #, unused
@@ -2595,7 +2595,7 @@ msgstr "Avant de démarrer"
 #: src/app/main/ui/onboarding/newsletter.cljs:63
 msgid "onboarding-v2.newsletter.desc"
 msgstr ""
-"Abonnez-vous à la newsletter de Penpot pour être tenu informé du "
+"Abonnez-vous à la newsletter de MIS pour être tenu informé du "
 "développement du produit et de notre actualité."
 
 #: src/app/main/ui/onboarding/newsletter.cljs:83
@@ -2897,7 +2897,7 @@ msgstr "Commencer à concevoir"
 
 #, unused
 msgid "onboarding.welcome.alt"
-msgstr "Penpot"
+msgstr "MIS"
 
 #: src/app/main/ui/auth/recovery.cljs:88
 msgid "profile.recovery.go-to-login"
@@ -3575,27 +3575,27 @@ msgstr "Zoomer sur la sélection"
 
 #: src/app/main/ui/dashboard/files.cljs:179
 msgid "title.dashboard.files"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:39
 msgid "title.dashboard.font-providers"
-msgstr "Fournisseurs de polices - %s - Penpot"
+msgstr "Fournisseurs de polices - %s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:38
 msgid "title.dashboard.fonts"
-msgstr "Polices - %s - Penpot"
+msgstr "Polices - %s - MIS"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "Projets - %s - Penpot"
+msgstr "Projets - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"
-msgstr "Rechercher - %s - Penpot"
+msgstr "Rechercher - %s - MIS"
 
 #: src/app/main/ui/dashboard/libraries.cljs:42
 msgid "title.dashboard.shared-libraries"
-msgstr "Bibliothèques Partagées - %s - Penpot"
+msgstr "Bibliothèques Partagées - %s - MIS"
 
 #: src/app/main/ui/auth/verify_token.cljs:70, src/app/main/ui/auth.cljs:33
 msgid "title.default"
@@ -3607,43 +3607,43 @@ msgstr "Profil - Jetons d'accès"
 
 #: src/app/main/ui/settings/feedback.cljs:107
 msgid "title.settings.feedback"
-msgstr "Donnez votre avis - Penpot"
+msgstr "Donnez votre avis - MIS"
 
 #: src/app/main/ui/settings/options.cljs:76
 msgid "title.settings.options"
-msgstr "Configuration - Penpot"
+msgstr "Configuration - MIS"
 
 #: src/app/main/ui/settings/password.cljs:103
 msgid "title.settings.password"
-msgstr "Mot de passe - Penpot"
+msgstr "Mot de passe - MIS"
 
 #: src/app/main/ui/settings/profile.cljs:124
 msgid "title.settings.profile"
-msgstr "Profil - Penpot"
+msgstr "Profil - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:779
 msgid "title.team-invitations"
-msgstr "Invitations - %s - Penpot"
+msgstr "Invitations - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:529
 msgid "title.team-members"
-msgstr "Membres - %s - Penpot"
+msgstr "Membres - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1090
 msgid "title.team-settings"
-msgstr "Configuration - %s - Penpot"
+msgstr "Configuration - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1043
 msgid "title.team-webhooks"
-msgstr "Webhooks - %s - Penpot"
+msgstr "Webhooks - %s - MIS"
 
 #: src/app/main/ui/viewer.cljs:423
 msgid "title.viewer"
-msgstr "%s - Mode spectateur - Penpot"
+msgstr "%s - Mode spectateur - MIS"
 
 #: src/app/main/ui/workspace.cljs:202
 msgid "title.workspace"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui.cljs:138
 #, unused

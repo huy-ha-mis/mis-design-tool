@@ -20,7 +20,7 @@ msgstr "Jau turite paskyrą?"
 msgid "auth.check-your-email"
 msgstr ""
 "Pasitikrinkite savo el. paštą, ten rasite pranešimą su nuorodą, kurią "
-"paspaudę galėsite pradėti naudotis Penpot."
+"paspaudę galėsite pradėti naudotis MIS."
 
 #: src/app/main/ui/auth/recovery.cljs:67
 msgid "auth.confirm-password"
@@ -156,7 +156,7 @@ msgstr "Paskelbti"
 
 #: src/app/main/ui/viewer/share_link.cljs:305, src/app/main/ui/viewer/share_link.cljs:315
 msgid "common.share-link.all-users"
-msgstr "Visi Penpot vartotojai"
+msgstr "Visi MIS vartotojai"
 
 #: src/app/main/ui/viewer/share_link.cljs:199
 msgid "common.share-link.confirm-deletion-link-description"
@@ -234,7 +234,7 @@ msgstr "Komandos valdymas"
 #: src/app/main/ui/dashboard/projects.cljs:90
 msgid "dasboard.team-hero.text"
 msgstr ""
-"Penpot yra skirtas komandoms. Pakvieskite narius bendram darbui su "
+"MIS yra skirtas komandoms. Pakvieskite narius bendram darbui su "
 "projektais ir failais"
 
 #: src/app/main/ui/dashboard/projects.cljs:88
@@ -244,7 +244,7 @@ msgstr "Suburkite komandą!"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.tutorial-hero.info"
-msgstr "Išmokite Penpot pagrindus ir mėgaukitės šia pamoka."
+msgstr "Išmokite MIS pagrindus ir mėgaukitės šia pamoka."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -254,7 +254,7 @@ msgstr "Pradėti pamoką"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.walkthrough-hero.info"
-msgstr "Panagrinėkite Penpot ir susipažinkite su pagrindinėmis jo savybėmis."
+msgstr "Panagrinėkite MIS ir susipažinkite su pagrindinėmis jo savybėmis."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -279,7 +279,7 @@ msgstr "Sukurti naują komandą"
 
 #: src/app/main/ui/components/context_menu_a11y.cljs:282, src/app/main/ui/dashboard/sidebar.cljs:659
 msgid "dashboard.default-team-name"
-msgstr "Jūsų Penpot"
+msgstr "Jūsų MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:580
 msgid "dashboard.delete-team"
@@ -303,7 +303,7 @@ msgstr "Eksportuoti į PDF"
 
 #, unused
 msgid "dashboard.export-multi"
-msgstr "Eksportuoti Penpot %s failus"
+msgstr "Eksportuoti MIS %s failus"
 
 #: src/app/main/ui/exports/assets.cljs:106
 msgid "dashboard.export-multiple.selected"
@@ -321,7 +321,7 @@ msgstr ""
 
 #: src/app/main/ui/exports/assets.cljs:181
 msgid "dashboard.export-shapes.how-to-link"
-msgstr "Informacija, kaip nustatyti eksportą \"Penpot\"."
+msgstr "Informacija, kaip nustatyti eksportą \"MIS\"."
 
 #: src/app/main/ui/exports/assets.cljs:176
 msgid "dashboard.export-shapes.no-elements"
@@ -411,8 +411,8 @@ msgstr ""
 msgid "dashboard.fonts.hero-text2"
 msgstr ""
 "Turėtumėte įkelti tik tuos šriftus, kurie jums priklauso arba kuriuos "
-"turite licenciją naudoti \"Penpot\". Daugiau informacijos rasite "
-"[Penpot'paslaugų teikimo sąlygų](%s) skyriuje "
+"turite licenciją naudoti \"MIS\". Daugiau informacijos rasite "
+"[MIS'paslaugų teikimo sąlygų](%s) skyriuje "
 "\"Turinio teisės\". Taip pat galite paskaityti apie [šriftų "
 "licencijavimą](https://www.typography.com/faq)."
 
@@ -422,7 +422,7 @@ msgstr "Įkelti viską"
 
 #: src/app/main/ui/dashboard/import.cljs:452, src/app/main/ui/dashboard/project_menu.cljs:109
 msgid "dashboard.import"
-msgstr "Importuokite Penpot failus"
+msgstr "Importuokite MIS failus"
 
 #: src/app/main/ui/dashboard/import.cljs:288, src/app/worker/import.cljs:851, src/app/worker/import.cljs:854
 msgid "dashboard.import.analyze-error"

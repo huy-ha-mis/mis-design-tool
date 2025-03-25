@@ -23,7 +23,7 @@ msgstr "Kontrollera din e-post"
 msgid "auth.check-your-email"
 msgstr ""
 "Kontrollera din e-post och klicka på länken för att verifiera och börja "
-"använda Penpot."
+"använda MIS."
 
 #: src/app/main/ui/auth/recovery.cljs:67
 msgid "auth.confirm-password"
@@ -66,7 +66,7 @@ msgstr "Logga in"
 
 #: src/app/main/ui/auth/login.cljs:286
 msgid "auth.login-tagline"
-msgstr "Penpot är det fria open-source designverktyget för design and kod samarbete"
+msgstr "MIS är det fria open-source designverktyget för design and kod samarbete"
 
 #: src/app/main/ui/auth/login.cljs:223
 msgid "auth.login-with-github-submit"
@@ -157,7 +157,7 @@ msgstr "Skapa ett konto"
 #: src/app/main/ui/auth/register.cljs:124
 msgid "auth.register-tagline"
 msgstr ""
-"Med ett gratis Penpot-konto kan du skapa obegränsade team och samarbeta med "
+"Med ett gratis MIS-konto kan du skapa obegränsade team och samarbeta med "
 "andra designers och utvecklare på så många projekt som du vill. "
 
 #: src/app/main/ui/auth/register.cljs:122
@@ -207,7 +207,7 @@ msgstr "Publicera"
 
 #: src/app/main/ui/viewer/share_link.cljs:305, src/app/main/ui/viewer/share_link.cljs:315
 msgid "common.share-link.all-users"
-msgstr "Alla Penpot-användare"
+msgstr "Alla MIS-användare"
 
 #: src/app/main/ui/viewer/share_link.cljs:199
 msgid "common.share-link.confirm-deletion-link-description"
@@ -284,7 +284,7 @@ msgstr "Teamhantering"
 #: src/app/main/ui/dashboard/projects.cljs:90
 msgid "dasboard.team-hero.text"
 msgstr ""
-"Penpot är avsett för team. Bjud in medlemmar att arbeta tillsammans på "
+"MIS är avsett för team. Bjud in medlemmar att arbeta tillsammans på "
 "projekt och filer"
 
 #: src/app/main/ui/dashboard/projects.cljs:88
@@ -295,7 +295,7 @@ msgstr "Samarbete!"
 #, unused
 msgid "dasboard.tutorial-hero.info"
 msgstr ""
-"Lär dig grunderna i Penpot samtidigt som du har kul med denna praktiska "
+"Lär dig grunderna i MIS samtidigt som du har kul med denna praktiska "
 "handledning."
 
 #: src/app/main/ui/dashboard/projects.cljs
@@ -311,7 +311,7 @@ msgstr "Praktisk handledning"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.walkthrough-hero.info"
-msgstr "Få en rundtur i Penpot och lär dig förstå huvudfunktionerna."
+msgstr "Få en rundtur i MIS och lär dig förstå huvudfunktionerna."
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -384,7 +384,7 @@ msgid "dashboard.access-tokens.personal.description"
 msgstr ""
 "Personliga åtkomsttokens fungerar som ett alternativ till vårt "
 "inloggnings-/lösenordsautentiseringssystem och kan användas för att tillåta "
-"en applikation att komma åt interna Penpot API"
+"en applikation att komma åt interna MIS API"
 
 #: src/app/main/ui/settings/access_tokens.cljs:143
 msgid "dashboard.access-tokens.token-will-expire"
@@ -416,7 +416,7 @@ msgstr "Nåla fast denna version"
 
 #: src/app/main/ui/components/context_menu_a11y.cljs:282, src/app/main/ui/dashboard/sidebar.cljs:659
 msgid "dashboard.default-team-name"
-msgstr "Ditt Penpot"
+msgstr "Ditt MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:580
 msgid "dashboard.delete-team"
@@ -424,7 +424,7 @@ msgstr "Radera team"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:308, src/app/main/ui/dashboard/file_menu.cljs:313, src/app/main/ui/workspace/main_menu.cljs:650, src/app/main/ui/workspace/main_menu.cljs:659
 msgid "dashboard.download-binary-file"
-msgstr "Ladda ner Penpot-fil (.penpot)"
+msgstr "Ladda ner MIS-fil (.penpot)"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:318, src/app/main/ui/workspace/main_menu.cljs:668
 msgid "dashboard.download-standard-file"
@@ -480,7 +480,7 @@ msgstr "Inga bibliotek än."
 
 #: src/app/main/ui/dashboard/file_menu.cljs:249, src/app/main/ui/dashboard/file_menu.cljs:254
 msgid "dashboard.export-binary-multi"
-msgstr "Ladda ner % Penpot-filer (.penpot)"
+msgstr "Ladda ner % MIS-filer (.penpot)"
 
 #: src/app/main/ui/workspace/main_menu.cljs:676
 msgid "dashboard.export-frames"
@@ -492,7 +492,7 @@ msgstr "Exportera som PDF"
 
 #, unused
 msgid "dashboard.export-multi"
-msgstr "Exportera Penpot %s filer"
+msgstr "Exportera MIS %s filer"
 
 #: src/app/main/ui/exports/assets.cljs:106
 msgid "dashboard.export-multiple.selected"
@@ -510,7 +510,7 @@ msgstr ""
 
 #: src/app/main/ui/exports/assets.cljs:181
 msgid "dashboard.export-shapes.how-to-link"
-msgstr "Info hur man ställer in export i Penpot."
+msgstr "Info hur man ställer in export i MIS."
 
 #: src/app/main/ui/exports/assets.cljs:176
 msgid "dashboard.export-shapes.no-elements"
@@ -609,7 +609,7 @@ msgstr ""
 msgid "dashboard.fonts.hero-text2"
 msgstr ""
 "Du bör endast ladda upp teckensnitt som du äger eller har licens att "
-"använda i Penpot. Läs mer i avsnittet om innehållsrättigheter i [Penpots "
+"använda i MIS. Läs mer i avsnittet om innehållsrättigheter i [Penpots "
 "användarvillkor](%s). Du kanske också vill läsa "
 "om [licensiering av teckensnitt](https://www.typography.com/faq)."
 
@@ -630,7 +630,7 @@ msgstr ""
 
 #: src/app/main/ui/dashboard/import.cljs:452, src/app/main/ui/dashboard/project_menu.cljs:109
 msgid "dashboard.import"
-msgstr "Importera Penpot-filer"
+msgstr "Importera MIS-filer"
 
 #: src/app/main/ui/dashboard/import.cljs:288, src/app/worker/import.cljs:851, src/app/worker/import.cljs:854
 msgid "dashboard.import.analyze-error"
@@ -1009,7 +1009,7 @@ msgstr "Inga gränser för kreativitet"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:968
 msgid "dashboard.upgrade-plan.penpot-free"
-msgstr "Gratis Penpot"
+msgstr "Gratis MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:971
 msgid "dashboard.upgrade-plan.power-up"
@@ -1043,7 +1043,7 @@ msgstr "Webhook skapades."
 msgid "dashboard.webhooks.description"
 msgstr ""
 "Webhooks är ett enkelt sätt att låta andra webbplatser och appar bli "
-"meddelade när vissa händelser inträffar i Penpot. Vi skickar en "
+"meddelade när vissa händelser inträffar i MIS. Vi skickar en "
 "POST-begäran till var och en av de webbadresser du anger."
 
 #: src/app/main/ui/dashboard/team.cljs:1059
@@ -1072,7 +1072,7 @@ msgstr "Ditt namn"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:39, src/app/main/ui/dashboard/fonts.cljs:35, src/app/main/ui/dashboard/libraries.cljs:40, src/app/main/ui/dashboard/projects.cljs:345, src/app/main/ui/dashboard/search.cljs:48, src/app/main/ui/dashboard/sidebar.cljs:319, src/app/main/ui/dashboard/team.cljs:531, src/app/main/ui/dashboard/team.cljs:781, src/app/main/ui/dashboard/team.cljs:1045, src/app/main/ui/dashboard/team.cljs:1092
 msgid "dashboard.your-penpot"
-msgstr "Ditt Penpot"
+msgstr "Ditt MIS"
 
 #: src/app/main/ui/alert.cljs:32
 msgid "ds.alert-ok"
@@ -4000,7 +4000,7 @@ msgstr "Teckensnitt - %s - Penpot"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "Projekt - %s - Penpot"
+msgstr "Projekt - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"

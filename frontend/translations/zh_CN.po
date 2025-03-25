@@ -21,7 +21,7 @@ msgstr "请检查您的邮箱"
 
 #: src/app/main/ui/auth/register.cljs:277
 msgid "auth.check-your-email"
-msgstr "请检查电子邮箱，点击邮件中的超链接来验证，然后开始使用Penpot。"
+msgstr "请检查电子邮箱，点击邮件中的超链接来验证，然后开始使用MIS。"
 
 #: src/app/main/ui/auth/recovery.cljs:67
 msgid "auth.confirm-password"
@@ -62,7 +62,7 @@ msgstr "登录"
 
 #: src/app/main/ui/auth/login.cljs:286
 msgid "auth.login-tagline"
-msgstr "Penpot是一款自由开源的设计工具，用于「设计」和「开发」协同"
+msgstr "MIS是一款自由开源的设计工具，用于「设计」和「开发」协同"
 
 #: src/app/main/ui/auth/login.cljs:223
 msgid "auth.login-with-github-submit"
@@ -180,7 +180,7 @@ msgstr "发布"
 
 #: src/app/main/ui/viewer/share_link.cljs:305, src/app/main/ui/viewer/share_link.cljs:315
 msgid "common.share-link.all-users"
-msgstr "所有Penpot用户"
+msgstr "所有MIS用户"
 
 #: src/app/main/ui/viewer/share_link.cljs:199
 msgid "common.share-link.confirm-deletion-link-description"
@@ -254,7 +254,7 @@ msgstr "团队管理"
 
 #: src/app/main/ui/dashboard/projects.cljs:90
 msgid "dasboard.team-hero.text"
-msgstr "Penpot是为团队协作而设计，邀请成员合作处理项目和文件"
+msgstr "MIS是为团队协作而设计，邀请成员合作处理项目和文件"
 
 #: src/app/main/ui/dashboard/projects.cljs:88
 msgid "dasboard.team-hero.title"
@@ -263,7 +263,7 @@ msgstr "组建团队!"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.tutorial-hero.info"
-msgstr "通过有趣的实践教程学习Penpot的基础知识。"
+msgstr "通过有趣的实践教程学习MIS的基础知识。"
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -278,7 +278,7 @@ msgstr "实践教程"
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
 msgid "dasboard.walkthrough-hero.info"
-msgstr "浏览Penpot, 了解其主要功能。"
+msgstr "浏览MIS, 了解其主要功能。"
 
 #: src/app/main/ui/dashboard/projects.cljs
 #, unused
@@ -348,7 +348,7 @@ msgstr "个人访问令牌"
 
 #: src/app/main/ui/settings/access_tokens.cljs:187
 msgid "dashboard.access-tokens.personal.description"
-msgstr "个人访问令牌可被理解为密码认证的代替选项，常用于允许（第三方）应用访问Penpot内部API"
+msgstr "个人访问令牌可被理解为密码认证的代替选项，常用于允许（第三方）应用访问MIS内部API"
 
 #: src/app/main/ui/settings/access_tokens.cljs:143
 msgid "dashboard.access-tokens.token-will-expire"
@@ -376,7 +376,7 @@ msgstr "创建新团队"
 
 #: src/app/main/ui/components/context_menu_a11y.cljs:282, src/app/main/ui/dashboard/sidebar.cljs:659
 msgid "dashboard.default-team-name"
-msgstr "你的Penpot"
+msgstr "你的MIS"
 
 #: src/app/main/ui/dashboard/sidebar.cljs:580
 msgid "dashboard.delete-team"
@@ -384,7 +384,7 @@ msgstr "删除团队"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:308, src/app/main/ui/dashboard/file_menu.cljs:313, src/app/main/ui/workspace/main_menu.cljs:650, src/app/main/ui/workspace/main_menu.cljs:659
 msgid "dashboard.download-binary-file"
-msgstr "下载Penpot文件 (.penpot)"
+msgstr "下载MIS文件 (.penpot)"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:318, src/app/main/ui/workspace/main_menu.cljs:668
 msgid "dashboard.download-standard-file"
@@ -400,7 +400,7 @@ msgstr "复制 %s 个文件"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:249, src/app/main/ui/dashboard/file_menu.cljs:254
 msgid "dashboard.export-binary-multi"
-msgstr "下载 %s Penpot文件 (.penpot)"
+msgstr "下载 %s MIS文件 (.penpot)"
 
 #: src/app/main/ui/workspace/main_menu.cljs:676
 msgid "dashboard.export-frames"
@@ -428,7 +428,7 @@ msgstr "你可以在设计选项中为元素添加导出设置（位于右侧边
 
 #: src/app/main/ui/exports/assets.cljs:181
 msgid "dashboard.export-shapes.how-to-link"
-msgstr "关于如何使用Penpot导出。"
+msgstr "关于如何使用MIS导出。"
 
 #: src/app/main/ui/exports/assets.cljs:176
 msgid "dashboard.export-shapes.no-elements"
@@ -507,7 +507,7 @@ msgstr ""
 #, markdown
 msgid "dashboard.fonts.hero-text2"
 msgstr ""
-"你应当只向Penpot上传你所拥有的字体，或是你持有使用许可的字体。点击[Penpot服务条例](https://penpot.app/terms."
+"你应当只向MIS上传你所拥有的字体，或是你持有使用许可的字体。点击[MIS服务条例](https://penpot.app/terms."
 "html)查看更多有关内容权利的章节。或许你也想了解一下[字体许可授权] (https://www.typography.com/faq)。"
 
 #: src/app/main/ui/dashboard/fonts.cljs:206
@@ -797,7 +797,7 @@ msgstr "Webhook创建成功。"
 
 #: src/app/main/ui/dashboard/team.cljs:930
 msgid "dashboard.webhooks.description"
-msgstr "Webhooks是一种简单的方式，允许其他网站和应用程序在Penpot的某些事件发生时得到通知。我们将发送一个POST请求到你提供的每个URL。"
+msgstr "Webhooks是一种简单的方式，允许其他网站和应用程序在MIS的某些事件发生时得到通知。我们将发送一个POST请求到你提供的每个URL。"
 
 #: src/app/main/ui/dashboard/team.cljs:1059
 msgid "dashboard.webhooks.empty.add-one"
@@ -825,7 +825,7 @@ msgstr "你的姓名"
 
 #: src/app/main/ui/dashboard/file_menu.cljs:39, src/app/main/ui/dashboard/fonts.cljs:35, src/app/main/ui/dashboard/libraries.cljs:40, src/app/main/ui/dashboard/projects.cljs:345, src/app/main/ui/dashboard/search.cljs:48, src/app/main/ui/dashboard/sidebar.cljs:319, src/app/main/ui/dashboard/team.cljs:531, src/app/main/ui/dashboard/team.cljs:781, src/app/main/ui/dashboard/team.cljs:1045, src/app/main/ui/dashboard/team.cljs:1092
 msgid "dashboard.your-penpot"
-msgstr "你的Penpot"
+msgstr "你的MIS"
 
 #: src/app/main/ui/alert.cljs:32
 msgid "ds.alert-ok"
@@ -2417,7 +2417,7 @@ msgstr "免费注册"
 
 #: src/app/main/ui/static.cljs:150
 msgid "not-found.login.start-using"
-msgstr "并在数秒内开始使用 Penpot！"
+msgstr "并在数秒内开始使用 MIS！"
 
 #: src/app/main/ui/static.cljs:291
 msgid "not-found.no-permission.already-requested.file"
@@ -2453,7 +2453,7 @@ msgstr "您没有针对此文件的访问权限。"
 
 #: src/app/main/ui/static.cljs:51, src/app/main/ui/static.cljs:287, src/app/main/ui/static.cljs:293, src/app/main/ui/static.cljs:299, src/app/main/ui/static.cljs:305, src/app/main/ui/static.cljs:314, src/app/main/ui/static.cljs:323
 msgid "not-found.no-permission.go-dashboard"
-msgstr "前往您的Penpot"
+msgstr "前往您的MIS"
 
 #: src/app/main/ui/static.cljs:311, src/app/main/ui/static.cljs:320
 msgid "not-found.no-permission.if-approves"
@@ -2633,7 +2633,7 @@ msgstr "隐私策略。"
 
 #: src/app/main/ui/onboarding/newsletter.cljs:60
 msgid "onboarding.newsletter.title"
-msgstr "想要接收 Penpot 新闻？"
+msgstr "想要接收 MIS 新闻？"
 
 #: src/app/main/ui/onboarding/questions.cljs:113
 msgid "onboarding.questions.lets-get-started"
@@ -2709,7 +2709,7 @@ msgstr "开始设计"
 
 #, unused
 msgid "onboarding.welcome.alt"
-msgstr "Penpot"
+msgstr "MIS"
 
 #: src/app/main/ui/auth/recovery.cljs:88
 msgid "profile.recovery.go-to-login"
@@ -3379,31 +3379,31 @@ msgstr "缩放到选定对象"
 
 #: src/app/main/ui/dashboard/files.cljs:179
 msgid "title.dashboard.files"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:39
 msgid "title.dashboard.font-providers"
-msgstr "字体提供者 - %s - Penpot"
+msgstr "字体提供者 - %s - MIS"
 
 #: src/app/main/ui/dashboard/fonts.cljs:38
 msgid "title.dashboard.fonts"
-msgstr "字体 - %s - Penpot"
+msgstr "字体 - %s - MIS"
 
 #: src/app/main/ui/dashboard/projects.cljs:347
 msgid "title.dashboard.projects"
-msgstr "项目 - %s - Penpot"
+msgstr "项目 - %s - MIS"
 
 #: src/app/main/ui/dashboard/search.cljs:50
 msgid "title.dashboard.search"
-msgstr "搜索 - %s - Penpot"
+msgstr "搜索 - %s - MIS"
 
 #: src/app/main/ui/dashboard/libraries.cljs:42
 msgid "title.dashboard.shared-libraries"
-msgstr "共享库 - %s - Penpot"
+msgstr "共享库 - %s - MIS"
 
 #: src/app/main/ui/auth/verify_token.cljs:70, src/app/main/ui/auth.cljs:33
 msgid "title.default"
-msgstr "Penpot - 面向团队，设计自由"
+msgstr "MIS - 面向团队，设计自由"
 
 #: src/app/main/ui/settings/access_tokens.cljs:281
 msgid "title.settings.access-tokens"
@@ -3411,43 +3411,43 @@ msgstr "个人资料 — 访问令牌"
 
 #: src/app/main/ui/settings/feedback.cljs:107
 msgid "title.settings.feedback"
-msgstr "提交反馈 - Penpot"
+msgstr "提交反馈 - MIS"
 
 #: src/app/main/ui/settings/options.cljs:76
 msgid "title.settings.options"
-msgstr "设置 - Penpot"
+msgstr "设置 - MIS"
 
 #: src/app/main/ui/settings/password.cljs:103
 msgid "title.settings.password"
-msgstr "密码 - Penpot"
+msgstr "密码 - MIS"
 
 #: src/app/main/ui/settings/profile.cljs:124
 msgid "title.settings.profile"
-msgstr "个人资料 - Penpot"
+msgstr "个人资料 - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:779
 msgid "title.team-invitations"
-msgstr "邀请函 - %s - Penpot"
+msgstr "邀请函 - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:529
 msgid "title.team-members"
-msgstr "成员 - %s - Penpot"
+msgstr "成员 - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1090
 msgid "title.team-settings"
-msgstr "设置 - %s - Penpot"
+msgstr "设置 - %s - MIS"
 
 #: src/app/main/ui/dashboard/team.cljs:1043
 msgid "title.team-webhooks"
-msgstr "Webhooks - %s - Penpot"
+msgstr "Webhooks - %s - MIS"
 
 #: src/app/main/ui/viewer.cljs:423
 msgid "title.viewer"
-msgstr "%s - 预览模式）- Penpot"
+msgstr "%s - 预览模式）- MIS"
 
 #: src/app/main/ui/workspace.cljs:202
 msgid "title.workspace"
-msgstr "%s - Penpot"
+msgstr "%s - MIS"
 
 #: src/app/main/ui.cljs:138
 #, unused
